@@ -1,0 +1,1 @@
+Web application for tracking dishes eaten at restaurants
